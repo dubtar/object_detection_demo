@@ -1,4 +1,4 @@
-<annotation>
+<annotation verified="yes">
 	<folder>test</folder>
 	<filename>10.jpg</filename>
 	<path>C:\src\object_detection_demo\data\images\test\10.jpg</path>
@@ -11,16 +11,4 @@
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
-	<object>
-		<name>number</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>284</xmin>
-			<ymin>310</ymin>
-			<xmax>311</xmax>
-			<ymax>342</ymax>
-		</bndbox>
-	</object>
 </annotation>
